@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityLifeCycleYou</string>
+    <string name="launch_activity_2">Launch Activity 2</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="launch_activity_3">Launch Activity 3</string>
+    <string name="launchdactivity_3">LaunchdActivity 3</string>
+
+</resources>
